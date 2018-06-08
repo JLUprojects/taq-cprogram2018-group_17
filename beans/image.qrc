@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/man-off-down.png</file>
+        <file>image/man-off-left.png</file>
+        <file>image/man-off-right.png</file>
+        <file>image/man-off-up.png</file>
+        <file>image/man-on-down.png</file>
+        <file>image/man-on-left.png</file>
+        <file>image/man-on-up.png</file>
+        <file>image/monster2.png</file>
+        <file>image/monster3.png</file>
+        <file>image/monster4.png</file>
+        <file>image/tittle.png</file>
+        <file>image/background.png</file>
+        <file>image/exit.png</file>
+        <file>image/start.png</file>
+        <file>image/tem.png</file>
+        <file>image/smallbean.png</file>
+        <file>image/black.png</file>
+        <file>image/wall.png</file>
+        <file>image/man-on-right.png</file>
+        <file>image/bigbean.png</file>
+        <file>image/monsterinvTime.png</file>
+        <file>image/monster1.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>image/smallbean.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix3"/>
+</RCC>
